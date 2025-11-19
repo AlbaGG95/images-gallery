@@ -5,7 +5,7 @@ Incluye 19 fotografías tomadas en Egipto.
 
 ## 📸 Vista previa del proyecto
 
-![Vista previa](img/ImagenParaReadMe.jpg)
+<img src="./img/ImagenParaReadMe.jpg" alt="vista previa del proyecto"/>
 
 ## ✨ Características
 - Maquetación 100% con etiquetas semánticas (HTML5).
