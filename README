@@ -1,0 +1,36 @@
+# 🏜️ Images Gallery – Egipto
+
+Galería de imágenes desarrollada con **HTML5 + CSS3**, completamente responsive y sin utilizar ningún `<div>`.  
+Incluye 19 fotografías tomadas en Egipto.
+
+## 📸 Vista previa del proyecto
+
+![Vista previa de la galería](img/ImagenParaReadMe.jpg)
+
+## ✨ Características
+- Maquetación 100% con etiquetas semánticas (HTML5).
+- Diseño responsive (móvil, tablet y escritorio).
+- Uso de **CSS Grid** para organizar la galería.
+- Animación suave al pasar el ratón.
+- Código limpio sin librerías externas.
+- Proyecto preparado para GitHub Pages.
+
+## 📂 Estructura del proyecto
+
+images-gallery/
+├─ index.html
+├─ css/
+│ └─ styles.css
+└─ img/
+├─ Egipto1.jpg
+├─ Egipto2.jpg
+├─ ...
+└─ preview.jpg
+
+
+## 🌐 GitHub Pages
+(Agrega aquí el enlace cuando lo actives)
+
+
+
+
